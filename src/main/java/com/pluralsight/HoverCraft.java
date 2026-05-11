@@ -1,4 +1,8 @@
 package com.pluralsight;
 
-public class HoverCraft {
+public class HoverCraft extends Vehicle {
+    private int airCushionPressure;
+
+    public void hover(){}
+
 }
